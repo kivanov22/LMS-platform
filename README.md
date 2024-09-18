@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## NextJS 13 project
+
+
+## Technologies use
+- React
+- Stripe
+- Mux
+- Prisma
+- Tailwind
+- MySQL
+- Clerk
 
 ## Getting Started
 
